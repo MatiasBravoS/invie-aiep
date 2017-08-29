@@ -56,7 +56,7 @@ body {
 }
 
 .portada {
-  background-image: url('http://animesdeamor.com/wp-content/uploads/2016/09/portada-de-facebook-pokebola.jpg');
+  background-image: url(http://animesdeamor.com/wp-content/uploads/2016/09/portada-de-facebook-pokebola.jpg);
     color: white;
     padding: 20px;
 }
