@@ -56,7 +56,7 @@ body {
 }
 
 .portada {
-    background-image: url(https://hearthstone-a.akamaihd.net/images/backgroundart-5c8ac3475d31852a10a8b99a63cc9c38e34ea68f526ecb65ac80705ae27f497bfc0bc2de7fcf7e582c66c9be55c7efd5b3414e9c148104adf571f2be7e0a5d95.jpg);
+  background-image: url('https://hearthstone-a.akamaihd.net/images/backgroundart-5c8ac3475d31852a10a8b99a63cc9c38e34ea68f526ecb65ac80705ae27f497bfc0bc2de7fcf7e582c66c9be55c7efd5b3414e9c148104adf571f2be7e0a5d95.jpg');
     color: white;
     padding: 20px;
 }
