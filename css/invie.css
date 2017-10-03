@@ -117,7 +117,7 @@ input:focus, textarea:focus {
 
 
 .portada {
-background-image: url('http://animesdeamor.com/wp-content/uploads/2016/09/portada-de-facebook-pokemon-emerald-version.jpg');
+  background-image: url('http://animesdeamor.com/wp-content/uploads/2016/09/portada-de-facebook-pokemon-emerald-version.jpg');
   color: white;
   padding: 20px;
   height: 500px;
