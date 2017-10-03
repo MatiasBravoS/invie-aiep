@@ -402,26 +402,3 @@ table {
   /* Guitarras */
 }
 
-th {
-    background: #273b47;
-    color: white;
-    text-align: left;
-    padding-left: 15px;
-}
-
-th {
-    padding: 10px;
-}
-
-td {
-    padding: 20px;
-}
-
-table,
-th,
-td {
-    border: 1px solid #273b47;
-    border-collapse: collapse;
-}
-
- 
